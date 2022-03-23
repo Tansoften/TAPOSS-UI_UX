@@ -1,1 +1,2 @@
-# TAPOSS UI/UX \nA repository to used to store all user interface and user experience prototypes.
+# TAPOSS UI/UX 
+A repository to used to store all user interface and user experience prototypes.
